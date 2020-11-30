@@ -1,0 +1,23 @@
+.red{
+    background: red;
+}
+.blue{
+    background: blue;
+}
+.green{
+    background: green;
+}
+.orange{
+    background: orange;
+}
+.gray{
+    background: gray;
+}
+.yellow{
+    background: yellow;
+}
+
+.row div div{
+    height: 60px ;
+    margin: 8px 0;
+}
