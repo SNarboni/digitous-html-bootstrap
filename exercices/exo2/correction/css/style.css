@@ -1,0 +1,14 @@
+.yellow, .blue, .red {
+    height: 75px;
+    margin-bottom: 8px;
+}
+
+.yellow{
+    background-color: yellow ;
+}
+.red{
+    background-color: red ;
+}
+.blue{
+    background-color: blue ;
+}

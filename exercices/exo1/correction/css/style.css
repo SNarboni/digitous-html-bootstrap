@@ -1,0 +1,24 @@
+.yellow, .blue, .red, .green, .grey{
+    height: 75px;
+}
+
+.row{
+    margin-bottom: 16px;
+}
+
+.yellow{
+    background-color: yellow;
+}
+
+.blue{
+    background-color: blue;
+}
+.red{
+    background-color: red;
+}
+.green{
+    background-color: green;
+}
+.grey{
+    background-color: grey;
+}
